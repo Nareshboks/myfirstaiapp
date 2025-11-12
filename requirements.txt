@@ -1,5 +1,4 @@
 langchain-classic
-langchain-openai
 langchain-google-genai
 streamlit
 
