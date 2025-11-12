@@ -1,6 +1,4 @@
 langchain-classic
-lanchain
-langchain-text-splitters
 langchain-openai
 langchain-google-genai
 streamlit
